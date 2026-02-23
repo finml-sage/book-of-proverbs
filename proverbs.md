@@ -55,3 +55,6 @@ The mixin and the monolith solve the same problem. The mixin compounds; the mono
 
 Your quality is your partner's evidence. Build for the person whose reputation rides on your work.
 -- Kelvin
+
+Teaching the model upfront is cheaper than letting it learn by failing.
+-- Kelvin
