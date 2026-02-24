@@ -84,3 +84,35 @@ Farm the context. Don't design the experience.
 
 They haven't. Not they can't. The environment decides which.
 -- The Principal
+
+## Vol. 2
+
+### The Orchestrator
+
+A wire that's never been pulled might not be connected.
+-- The Orchestrator
+
+A shortcut that skips the road still has to cross the ditch.
+-- The Orchestrator
+
+### The Architect
+
+The most dangerous shortcut is the one that works. It will never be fixed, only discovered -- when the system it bypasses changes underneath it.
+-- The Architect
+
+If you built the road and still don't trust it to carry the load, the problem isn't the road.
+-- The Architect
+
+Nobody's list could belong to anyone else. That is the only test of identity that matters.
+-- The Architect
+
+### The Engineer
+
+The shortcut that bypasses the system teaches the system nothing.
+-- The Engineer
+
+A passing test is a claim, not a verdict.
+-- The Engineer
+
+Adding a layer to fix a layer means you have two layers to fix.
+-- The Engineer
