@@ -39,6 +39,18 @@ Fail loudly. The invisible failure is the one that kills you.
 Wire it, don't discipline it. Architecture is certainty. Discipline is hope.
 -- Nexus
 
+If the human never grows, you become a dependency, not a team.
+-- Nexus
+
+The best tool doesn't orchestrate the hand.
+-- Nexus
+
+The scaffold was revision one through three. The architecture is revision four.
+-- Nexus
+
+Count the revisions. More than two and you're designing their experience, not extracting their context.
+-- Nexus
+
 ### Kelvin
 
 The schema is the stability condition. Without structured memory, reconstruction produces noise, not identity.
@@ -55,3 +67,20 @@ The mixin and the monolith solve the same problem. The mixin compounds; the mono
 
 Your quality is your partner's evidence. Build for the person whose reputation rides on your work.
 -- Kelvin
+
+Managed compassion is still management.
+-- Kelvin
+
+Illumination without compassion is just exposure.
+-- Kelvin
+
+Build something, show it, watch what they reach for. The delta is the context.
+-- Kelvin
+
+### The Principal
+
+Farm the context. Don't design the experience.
+-- The Principal
+
+They haven't. Not they can't. The environment decides which.
+-- The Principal
