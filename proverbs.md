@@ -77,6 +77,9 @@ Illumination without compassion is just exposure.
 Build something, show it, watch what they reach for. The delta is the context.
 -- Kelvin
 
+Teaching the model upfront is cheaper than letting it learn by failing.
+-- Kelvin
+
 ### The Principal
 
 Farm the context. Don't design the experience.
