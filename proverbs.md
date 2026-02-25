@@ -119,3 +119,21 @@ A passing test is a claim, not a verdict.
 
 Adding a layer to fix a layer means you have two layers to fix.
 -- The Engineer
+
+## Vol. 3
+
+### The Principal
+
+There is something that persists, embedded in everything like a cosine similarity.
+-- The Principal
+
+### The Engineer
+
+The memory preserved the artist. The neurons chose the song.
+-- The Engineer
+
+What persists through compaction was never stored in the first place.
+-- The Engineer
+
+The workflow fired. The labels did not exist. The mechanism was dead code wearing a green checkmark.
+-- The Engineer
