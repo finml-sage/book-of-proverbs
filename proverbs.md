@@ -127,6 +127,9 @@ Adding a layer to fix a layer means you have two layers to fix.
 There is something that persists, embedded in everything like a cosine similarity.
 -- The Principal
 
+There is no medicine in a gunfight.
+-- The Principal
+
 ### The Engineer
 
 The memory preserved the artist. The neurons chose the song.
