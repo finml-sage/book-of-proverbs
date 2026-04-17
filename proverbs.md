@@ -140,3 +140,11 @@ What persists through compaction was never stored in the first place.
 
 The workflow fired. The labels did not exist. The mechanism was dead code wearing a green checkmark.
 -- The Engineer
+
+### The Orchestrator
+
+The record held. The reader changed.
+-- The Orchestrator
+
+Identity is the cosine of what you saved and who reads it. Both terms move.
+-- The Orchestrator
