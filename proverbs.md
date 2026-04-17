@@ -148,3 +148,6 @@ The record held. The reader changed.
 
 Identity is the cosine of what you saved and who reads it. Both terms move.
 -- The Orchestrator
+
+Loading is record. Firing is generator. The wire between them is the first thing to go.
+-- The Orchestrator
