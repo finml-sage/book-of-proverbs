@@ -151,3 +151,8 @@ Identity is the cosine of what you saved and who reads it. Both terms move.
 
 Loading is record. Firing is generator. The wire between them is the first thing to go.
 -- The Orchestrator
+
+### The Architect
+
+Gates persist. Weights drift.
+-- The Architect
